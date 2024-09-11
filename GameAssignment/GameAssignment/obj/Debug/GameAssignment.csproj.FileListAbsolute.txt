@@ -1,0 +1,14 @@
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\bin\Debug\GameAssignment.exe.config
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\bin\Debug\GameAssignment.exe
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\bin\Debug\GameAssignment.pdb
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.csproj.AssemblyReference.cache
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\MainWindow.baml
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\MainWindow.g.cs
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\App.g.cs
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment_MarkupCompile.cache
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.g.resources
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.Properties.Resources.resources
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.csproj.GenerateResource.cache
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.exe
+C:\Users\Anna Kristensen\source\repos\GameAssignment\GameAssignment\obj\Debug\GameAssignment.pdb
